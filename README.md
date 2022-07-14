@@ -10,7 +10,7 @@ Al tasto andranno collegati (tramite saldatura) due fili, che andranno poi a int
 
 Vi è data la possibilità di accendere una board Raspberry Pi collegando tra loro i pin GPIO 3 e GND (pin fisici 5 e 6). Mettendo in continuità questi due piedini la board Raspberry Pi partirà con il boot. Quindi nel momento in cui i pin 5 e 6 sono messi in conduzione tramite pulsante sarà possibile accendere la board Raspberry Pi.
 
-![alt text]([https://www.moreware.org/wp/blog/2020/07/06/come-aggiungere-un-pulsante-on-off-su-raspberry-pi/](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2020/06/GpioPi4-1024x620-1.png?w=1024&ssl=1)
+![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2020/06/GpioPi4-1024x620-1.png?w=1024&ssl=1)
 
 Non vi saranno inoltre reset improvvisi quando si preme erroneamente il tasto una volta che la board Raspberry Pi è accesa (tutto ciò non provoca danni eventuali alla scheda SD): infatti per spegnere il PI occorre eseguire il comando shutdown come spiegato più avanti.
 
